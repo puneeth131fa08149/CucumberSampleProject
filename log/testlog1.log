@@ -1,0 +1,60 @@
+2020-08-14 22:34:35,233 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-14 22:34:37,425 [main] INFO testBase - ************ Customer Enter URL **********
+2020-08-14 22:34:39,522 [main] INFO testBase - ************ Customer Enter Un and Pwd **********
+2020-08-14 22:34:39,862 [main] INFO testBase - ************ Customer Enter in Application **********
+2020-08-14 22:34:47,665 [main] INFO testBase - ************ Customer validte title after login **********
+2020-08-14 22:34:47,675 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-14 22:34:47,760 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-14 22:34:49,057 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-14 22:34:52,753 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-14 22:34:52,881 [main] INFO testBase - ************ Enter Password **********
+2020-08-14 22:34:52,978 [main] INFO testBase - ************ Enter Firstname **********
+2020-08-14 22:34:53,081 [main] INFO testBase - ************ Enter LastName **********
+2020-08-14 22:34:53,175 [main] INFO testBase - ************ Select Gender **********
+2020-08-14 22:34:53,268 [main] INFO testBase - ************ Enter DOB **********
+2020-08-14 22:34:53,380 [main] INFO testBase - ************ Enter Company name **********
+2020-08-14 22:34:53,484 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-14 22:34:53,639 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-14 22:34:56,005 [main] INFO testBase - ************ Customer can Logout **********
+2020-08-14 22:34:58,088 [main] INFO testBase - ************ Customer can Validate title after logout **********
+2020-08-14 22:34:58,095 [main] INFO testBase - ************ Close The Browser **********
+2020-08-15 07:41:03,885 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-15 07:41:06,185 [main] INFO testBase - ************ Customer Enter URL **********
+2020-08-15 07:41:09,085 [main] INFO testBase - ************ Customer Enter Un and Pwd **********
+2020-08-15 07:41:09,660 [main] INFO testBase - ************ Customer Enter in Application **********
+2020-08-15 07:41:19,986 [main] INFO testBase - ************ Customer validte title after login **********
+2020-08-15 07:41:20,002 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-15 07:41:20,073 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-15 07:41:21,499 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-15 07:41:23,782 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-15 07:41:23,968 [main] INFO testBase - ************ Enter Password **********
+2020-08-15 07:41:24,061 [main] INFO testBase - ************ Enter Firstname **********
+2020-08-15 07:41:24,141 [main] INFO testBase - ************ Enter LastName **********
+2020-08-15 07:41:24,229 [main] INFO testBase - ************ Select Gender **********
+2020-08-15 07:41:24,307 [main] INFO testBase - ************ Enter DOB **********
+2020-08-15 07:41:24,416 [main] INFO testBase - ************ Enter Company name **********
+2020-08-15 07:41:24,536 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-15 07:41:24,732 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-15 07:41:26,328 [main] INFO testBase - ************ Customer can Logout **********
+2020-08-15 07:41:28,497 [main] INFO testBase - ************ Customer can Validate title after logout **********
+2020-08-15 07:41:28,505 [main] INFO testBase - ************ Close The Browser **********
+2020-08-15 07:41:53,575 [main] INFO testBase - ************ Lanchink on chrome browser **********
+2020-08-15 07:41:55,776 [main] INFO testBase - ************ Customer Enter URL **********
+2020-08-15 07:41:56,514 [main] INFO testBase - ************ Customer Enter Un and Pwd **********
+2020-08-15 07:41:56,850 [main] INFO testBase - ************ Customer Enter in Application **********
+2020-08-15 07:42:02,912 [main] INFO testBase - ************ Customer validte title after login **********
+2020-08-15 07:42:02,923 [main] INFO testBase - ************ Customer click on CustomerMenu **********
+2020-08-15 07:42:03,024 [main] INFO testBase - ************ Customer click on CustomerMenu Item**********
+2020-08-15 07:42:05,034 [main] INFO testBase - ************ Customer clic on Add Button **********
+2020-08-15 07:42:06,172 [main] INFO testBase - ************ Enter Email Id **********
+2020-08-15 07:42:06,320 [main] INFO testBase - ************ Enter Password **********
+2020-08-15 07:42:06,420 [main] INFO testBase - ************ Enter Firstname **********
+2020-08-15 07:42:06,507 [main] INFO testBase - ************ Enter LastName **********
+2020-08-15 07:42:06,603 [main] INFO testBase - ************ Select Gender **********
+2020-08-15 07:42:06,689 [main] INFO testBase - ************ Enter DOB **********
+2020-08-15 07:42:06,795 [main] INFO testBase - ************ Enter Company name **********
+2020-08-15 07:42:06,897 [main] INFO testBase - ************ Select the Vendor **********
+2020-08-15 07:42:07,052 [main] INFO testBase - ************ Click on Save Button **********
+2020-08-15 07:42:09,873 [main] INFO testBase - ************ Customer can Logout **********
+2020-08-15 07:42:11,634 [main] INFO testBase - ************ Customer can Validate title after logout **********
+2020-08-15 07:42:11,642 [main] INFO testBase - ************ Close The Browser **********
